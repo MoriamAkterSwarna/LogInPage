@@ -1,0 +1,11 @@
+*
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.main{
+    background-image: linear-gradient(to right, rgb(63, 63, 210) , rgb(149, 156, 233));
+    height: 720px;
+}
+.btn1{
+    background-image: linear-gradient(to right, rgb(10, 10, 232) , rgb(149, 156, 233));
+}
